@@ -1,0 +1,55 @@
+body {
+	font-family: "PT Serif", "Baskerville", serif;
+	font-size: 18px;
+	background-color: #070906;
+	padding: 0;
+	margin: 0;
+	font-weight: 400;
+	width: auto;
+}
+
+h1 {
+	font-family: "Archivo", "Helvetica", sans-serif;
+	font-size: 2rem;
+	letter-spacing: 10px;
+	font-weight: 700;
+	line-height: 1rem;
+	color: #6d6142;
+}
+
+h2 {
+	font-family: "Archivo", "Helvetica", sans-serif;
+	font-size: 1rem;
+	letter-spacing: 4px;
+	font-weight: 300;
+	line-height: 1rem;
+	color: #6d6142;
+}
+
+a:link {
+	color: #2a6043;
+}
+
+a:hover {
+	color: #b4ac99;
+}
+
+a:visited {
+	color: #9d8e66;
+}
+
+	
+	
+
+
+.introImage {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+}
+
+.moreInfo {
+	text-align: center;
+	padding-top: 30px;
+}
